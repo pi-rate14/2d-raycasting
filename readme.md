@@ -15,6 +15,9 @@ User can use arrow keys to move the light source around and visualise the intera
 
 ### Steps to build
 
-1. > clone the repository
-2. > go build
-3. > ./2dRaycasting
+**Make sure you have Go installed**
+
+1. > Clone the repository
+2. > Cd into the repository
+3. > Run go build
+4. > Run ./2dRaycasting or 2dRaycasting.exe based on your system.
